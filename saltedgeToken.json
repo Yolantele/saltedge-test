@@ -1,0 +1,8 @@
+create connect token:
+{
+    "data": {
+        "token": "8a4d4ef91689654a7c8ab77fd106b696da63ee68df0990582cbb00806bf3f934",
+        "expires_at": "2018-02-20T11:36:46Z",
+        "connect_url": "https://www.saltedge.com/connect?token=8a4d4ef91689654a7c8ab77fd106b696da63ee68df0990582cbb00806bf3f934"
+    }
+}
